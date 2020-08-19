@@ -1,5 +1,10 @@
 # My Public Repository on Web Programming
 
+* Uniform Resource Identifiers (URI)
+* Uniform Resource Locators (URL)
+* Public APIs
+* Private APIs
+
 ## HTTP Status Codes
 
 Check out a comprehensive list [here](https://www.restapitutorial.com/httpstatuscodes.html)!
@@ -18,3 +23,13 @@ Otherwise, here's a short table of the most common ones for a quick, convenient 
 |404|Not Found|
 |409|Conflict|
 |500|Internal Server Error|
+
+## Web Requests
+
+* GET
+* HEAD
+* POST
+* PUT
+* DELETE
+* OPTIONS
+* TRACE
