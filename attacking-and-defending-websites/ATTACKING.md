@@ -20,30 +20,29 @@
 So everybody likes to skip the essentials and immediately become hackers. So if the above table of contents material didn't look familiar, or you don't know how they work, this guide won't be very helpful for you. Anyway, let's jump into it you fucking moron.
 
 ## Exploitations
-    ### burp suite site map
 
-    ### HTTP requests
+### burp suite site map
 
-    ### bypassing client-side controls
+### HTTP requests
 
-    ### SQL injection
+### bypassing client-side controls
 
-    ### SQL syntax
+### SQL injection
 
-    ### MySQL db
+### SQL syntax
 
-    ### MySQL Shell
+### MySQL db
 
-    ### password hashing
+### MySQL Shell
 
-    ### cross-site scripting (XSS)
+### password hashing
+
+### cross-site scripting (XSS)
 
 ## Vulnerabilities
-    ### pentesting process and procedures
 
-    ### content management systems(CMS)
+### pentesting process and procedures
 
-    ### filtering bypasses
+### content management systems(CMS)
 
-
-    \\
+### filtering bypasses
