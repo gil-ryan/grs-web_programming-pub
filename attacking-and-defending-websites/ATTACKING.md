@@ -27,7 +27,9 @@ So everybody likes to skip the essentials and immediately become hackers. So if 
 
 ### bypassing client-side controls
 
-### SQL injection
+### [SQL injection](./SQL-INJECTION.md)
+
+Structured Query Language is commonly a server-side language that can built a query, execute it on the server and database in order to return useful information.
 
 ### SQL syntax
 
